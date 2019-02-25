@@ -1,6 +1,0 @@
-<map id="ioopm.calculator.ast.Binary.getRhs" name="ioopm.calculator.ast.Binary.getRhs">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1visitor_1_1_evaluation_visitor.html#a9a7bd933648cd6a23f0687af05460bb5" title="ioopm.calculator.visitor.\lEvaluationVisitor.visit" alt="" coords="296,5,455,44"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1visitor_1_1_named_constant_checker.html#a1d4520effbc3ef7a959bbfbd393da94c" title="ioopm.calculator.visitor.\lNamedConstantChecker.visit" alt="" coords="279,68,472,107"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1visitor_1_1_reassignment_visitor.html#ac230607d0696b3ca39b35f9066b1849d" title="ioopm.calculator.visitor.\lReassignmentVisitor.visit" alt="" coords="291,131,460,169"/>
-<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1visitor_1_1_syntax_visitor.html#aca341881fae38b68ecad469fa9ca219c" title="ioopm.calculator.visitor.\lSyntaxVisitor.visit" alt="" coords="296,193,455,232"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="ioopm.calculator.parser.CalculatorParser.getEnvironment" name="ioopm.calculator.parser.CalculatorParser.getEnvironment">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1_test_driver.html#a6146a21a422fa601175ff625a8d56aae" title="Main method containing the parsing loop. " alt="" coords="288,5,501,31"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1_test_junit.html#a3314e67546ed3cface5c36365d9a6b43" title="ioopm.calculator.TestJunit.is\lConstant" alt="" coords="301,55,488,93"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1_test_junit.html#af1ec73ccfbabc836b84668e750ddc83b" title="ioopm.calculator.TestJunit.is\lCommand" alt="" coords="301,117,488,156"/>
-<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1_test_junit.html#a0bd89b866719fb72cb0333be8c49f071" title="ioopm.calculator.TestJunit.factorial" alt="" coords="282,180,507,205"/>
-<area shape="rect" id="node6" href="$classioopm_1_1calculator_1_1_test_junit.html#a29955ca15ea949dcd8aa18c1c3df8062" title="ioopm.calculator.TestJunit.gcd" alt="" coords="295,229,494,255"/>
-<area shape="rect" id="node7" href="$classioopm_1_1calculator_1_1_test_junit.html#ac4c7a01c284d8c436686b79953c9fc51" title="ioopm.calculator.TestJunit.conditionals" alt="" coords="270,279,518,304"/>
-<area shape="rect" id="node8" href="$classioopm_1_1calculator_1_1_test_junit.html#aaec285c255c09d7385f426ab412d7fd6" title="ioopm.calculator.TestJunit.scopes" alt="" coords="284,328,504,353"/>
-</map>

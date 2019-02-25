@@ -1,6 +1,0 @@
-<map id="ioopm.calculator.ast.Assignment.eval" name="ioopm.calculator.ast.Assignment.eval">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#aac03e068bc0394332e87613736ff2f69" title="Returns true if called by an object of class Variable. " alt="" coords="308,5,505,44"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a7b883a8101f2518a52e95575f67cb2db" title="Gets the string representation of an expression. " alt="" coords="308,68,505,107"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a03ffd478697b49f79a2ed6eca2af1de2" title="Evaluates an expression, simplifying it as much as possible. " alt="" coords="308,131,505,169"/>
-<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1ast_1_1_assignment.html#a46609ecf498c48a9bd6dc02128ef60a6" title="Evaluates if a symbolic expression is bound to the righthandside of the assignment. " alt="" coords="294,193,520,232"/>
-</map>

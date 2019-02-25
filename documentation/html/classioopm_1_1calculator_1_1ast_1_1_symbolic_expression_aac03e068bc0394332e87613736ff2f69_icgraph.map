@@ -1,5 +1,0 @@
-<map id="ioopm.calculator.ast.SymbolicExpression.isVariable" name="ioopm.calculator.ast.SymbolicExpression.isVariable">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_assignment.html#aa85beee6327f8dcae88cb238a3e4cb67" title="ioopm.calculator.ast.Assignment.eval" alt="" coords="250,5,491,31"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1visitor_1_1_evaluation_visitor.html#a353e6b052ac89cccbe7ef2028261074c" title="ioopm.calculator.visitor.\lEvaluationVisitor.visit" alt="" coords="291,55,450,93"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1visitor_1_1_syntax_visitor.html#a1d23ed00ff5d227e1d701954cc83c6ae" title="ioopm.calculator.visitor.\lSyntaxVisitor.visit" alt="" coords="291,117,450,156"/>
-</map>

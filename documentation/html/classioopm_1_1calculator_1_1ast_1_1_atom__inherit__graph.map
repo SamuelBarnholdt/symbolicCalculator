@@ -1,6 +1,0 @@
-<map id="ioopm.calculator.ast.Atom" name="ioopm.calculator.ast.Atom">
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_constant.html" title="ioopm.calculator.ast.Constant" alt="" coords="472,5,669,31"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1ast_1_1_named_constant.html" title="ioopm.calculator.ast.Named\lConstant" alt="" coords="477,55,663,93"/>
-<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1ast_1_1_variable.html" title="ioopm.calculator.ast.Variable" alt="" coords="475,117,666,143"/>
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html" title="Describes an expression for the symbolic calculator. " alt="" coords="5,55,202,93"/>
-</map>

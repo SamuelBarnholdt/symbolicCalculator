@@ -1,6 +1,0 @@
-<map id="ioopm.calculator.ast.Assignment.isValid" name="ioopm.calculator.ast.Assignment.isValid">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_variable.html#ac65c98c0be6c569f9aff7ef25735a6ac" title="Evaluates if this variable is bound to another variable. " alt="" coords="279,5,483,44"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a03ffd478697b49f79a2ed6eca2af1de2" title="Evaluates an expression, simplifying it as much as possible. " alt="" coords="283,68,480,107"/>
-<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a196c766895d24f83c875314c23383ca2" title="Returns true if called by an object of class Constant. " alt="" coords="283,131,480,169"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_variable.html#a62baf5207aa576154007275fa4f9aa8f" title="Evaluates if this variable is bound to another expression. " alt="" coords="531,5,776,44"/>
-</map>

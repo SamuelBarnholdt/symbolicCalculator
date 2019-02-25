@@ -1,7 +1,0 @@
-<map id="ioopm.calculator.TestJunit.scopes" name="ioopm.calculator.TestJunit.scopes">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1visitor_1_1_evaluation_visitor.html#a2a4425e39d58c66a0134890bedec85ae" title="Evaluates a symbolic expression and returns the evaluated and/or simplified expression. " alt="" coords="295,5,469,44"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1parser_1_1_calculator_parser.html#a5cbc3e54cbf40b7f09317d7e2e51cb2a" title="Gets the variable enviroment. " alt="" coords="273,68,490,107"/>
-<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1_test_junit.html#ac3596316e3aa4a4def4d883e2d382505" title="ioopm.calculator.TestJunit.get\lValue" alt="" coords="284,131,480,169"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a1e244611653038ea15843f981315b18d" title="Method to enable a visitor to visit an expression. " alt="" coords="538,5,735,44"/>
-<area shape="rect" id="node6" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#aae03f89bf31fc9c94de8689795c0122c" title="Gets the numeric value of an expression. " alt="" coords="538,131,735,169"/>
-</map>

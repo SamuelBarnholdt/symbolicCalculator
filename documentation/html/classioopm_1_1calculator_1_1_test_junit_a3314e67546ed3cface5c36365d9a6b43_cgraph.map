@@ -1,5 +1,0 @@
-<map id="ioopm.calculator.TestJunit.isConstant" name="ioopm.calculator.TestJunit.isConstant">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a03ffd478697b49f79a2ed6eca2af1de2" title="Evaluates an expression, simplifying it as much as possible. " alt="" coords="251,5,448,44"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1parser_1_1_calculator_parser.html#a5cbc3e54cbf40b7f09317d7e2e51cb2a" title="Gets the variable enviroment. " alt="" coords="241,68,458,107"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a196c766895d24f83c875314c23383ca2" title="Returns true if called by an object of class Constant. " alt="" coords="251,131,448,169"/>
-</map>

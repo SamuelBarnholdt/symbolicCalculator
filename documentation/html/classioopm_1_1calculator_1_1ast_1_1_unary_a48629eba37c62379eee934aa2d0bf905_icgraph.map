@@ -1,6 +1,0 @@
-<map id="ioopm.calculator.ast.Unary.simplify" name="ioopm.calculator.ast.Unary.simplify">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_cos.html#acceec0aaf9e0dc43f6d4db97b0898e50" title="ioopm.calculator.ast.Cos.eval" alt="" coords="279,5,474,31"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_exp.html#ab12de9a45cc72dd8deb569f3bd338df0" title="ioopm.calculator.ast.Exp.eval" alt="" coords="279,55,473,80"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1ast_1_1_log.html#a116560705d5569902d709cb4f0fb1340" title="ioopm.calculator.ast.Log.eval" alt="" coords="280,104,473,129"/>
-<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1ast_1_1_sin.html#a95cb2b7b9e9bb59df88af1b68ba6107a" title="ioopm.calculator.ast.Sin.eval" alt="" coords="281,153,471,179"/>
-</map>

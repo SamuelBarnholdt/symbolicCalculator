@@ -1,4 +1,0 @@
-<map id="ioopm.calculator.ast.Variable.containsOther" name="ioopm.calculator.ast.Variable.containsOther">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_variable.html#ac65c98c0be6c569f9aff7ef25735a6ac" title="Evaluates if this variable is bound to another variable. " alt="" coords="298,5,502,44"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_assignment.html#a67bad29dc922da9d5d47cb8f364e30b6" title="Evaluates if a variable is bound to the righthandside of the assignment. " alt="" coords="550,5,776,44"/>
-</map>

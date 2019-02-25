@@ -1,8 +1,0 @@
-<map id="ioopm.calculator.TestJunit.gcd" name="ioopm.calculator.TestJunit.gcd">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1visitor_1_1_evaluation_visitor.html#a2a4425e39d58c66a0134890bedec85ae" title="Evaluates a symbolic expression and returns the evaluated and/or simplified expression. " alt="" coords="274,5,448,44"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1parser_1_1_calculator_parser.html#a0696e95a0100fc37452b853a188326a2" title="PUBLIC FUNCTIONS. " alt="" coords="280,68,442,107"/>
-<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1parser_1_1_calculator_parser.html#a5cbc3e54cbf40b7f09317d7e2e51cb2a" title="Gets the variable enviroment. " alt="" coords="253,131,470,169"/>
-<area shape="rect" id="node6" href="$classioopm_1_1calculator_1_1parser_1_1_calculator_parser.html#a0378e189b99f659bd5ec30b5637ecc22" title="Gets the function enviroment. " alt="" coords="261,193,461,232"/>
-<area shape="rect" id="node7" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#aae03f89bf31fc9c94de8689795c0122c" title="Gets the numeric value of an expression. " alt="" coords="263,256,460,295"/>
-<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a1e244611653038ea15843f981315b18d" title="Method to enable a visitor to visit an expression. " alt="" coords="518,5,715,44"/>
-</map>

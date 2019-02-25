@@ -1,6 +1,0 @@
-<map id="ioopm.calculator.visitor.ReassignmentVisitor" name="ioopm.calculator.visitor.ReassignmentVisitor">
-<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1visitor_1_1_syntax_visitor.html" title="ioopm.calculator.visitor.\lSyntaxVisitor" alt="" coords="586,37,745,76"/>
-<area shape="rect" id="node3" href="$interfaceioopm_1_1calculator_1_1visitor_1_1_visitor.html" title="Visits a symbolic expression and performs desired actions. " alt="" coords="29,5,188,44"/>
-<area shape="rect" id="node6" href="$classioopm_1_1calculator_1_1visitor_1_1_evaluation_visitor.html" title="ioopm.calculator.visitor.\lEvaluationVisitor" alt="" coords="291,37,450,76"/>
-<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1ast_1_1_environment.html" title="A HashMap mapping variable names to expressions. " alt="" coords="261,100,479,125"/>
-</map>
