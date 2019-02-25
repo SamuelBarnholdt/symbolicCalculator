@@ -1,0 +1,7 @@
+<map id="ioopm.calculator.ast.Sin.eval" name="ioopm.calculator.ast.Sin.eval">
+<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a03ffd478697b49f79a2ed6eca2af1de2" title="Evaluates an expression, simplifying it as much as possible. " alt="" coords="258,5,455,44"/>
+<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a196c766895d24f83c875314c23383ca2" title="Returns true if called by an object of class Constant. " alt="" coords="258,68,455,107"/>
+<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1ast_1_1_unary.html#a48629eba37c62379eee934aa2d0bf905" title="ioopm.calculator.ast.Unary.simplify" alt="" coords="244,131,469,156"/>
+<area shape="rect" id="node6" href="$classioopm_1_1calculator_1_1ast_1_1_sin.html#af17b6b015c8c19fa771701ea535d9750" title="ioopm.calculator.ast.Sin.Sin" alt="" coords="264,180,449,205"/>
+<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#aae03f89bf31fc9c94de8689795c0122c" title="Gets the numeric value of an expression. " alt="" coords="517,124,714,163"/>
+</map>

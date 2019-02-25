@@ -1,0 +1,9 @@
+digraph "org.ioopm.calculator.ast.Sin.Sin"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="org.ioopm.calculator.ast.\lSin.Sin",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="org.ioopm.calculator.ast.\lSin.eval",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_sin.html#ab06d438a390b0eac137adc6adbf11c04"];
+}

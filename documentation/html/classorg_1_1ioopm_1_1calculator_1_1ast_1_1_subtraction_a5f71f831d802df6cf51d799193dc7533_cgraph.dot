@@ -1,0 +1,23 @@
+digraph "org.ioopm.calculator.ast.Subtraction.eval"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="org.ioopm.calculator.ast.\lSubtraction.eval",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="org.ioopm.calculator.ast.\lExpression.eval",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_expression.html#a9ac3471bcbb05a5388edd97b03969bfb",tooltip="Evaluates an expression, simplifying it as much as possible. "];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="org.ioopm.calculator.ast.\lExpression.isConstant",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_expression.html#a45cc0a0e20b4a2b5c790a63924d77276",tooltip="Returns true if called by an object of class Constant. "];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="org.ioopm.calculator.ast.\lSubtraction.Subtraction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_subtraction.html#a70c1a71bd4836c5b339f425b200aa5ef"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="org.ioopm.calculator.ast.\lBinary.assignExpression",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_binary.html#a337513f42aed75ddb9f7f0a117bf01d0"];
+  Node4 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="org.ioopm.calculator.ast.\lExpression.simplify",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_expression.html#a2fb4a47d11661d25dbf6020686b7c0e9",tooltip="Simplifies an expression. "];
+  Node4 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="org.ioopm.calculator.ast.\lSubtraction.simplify",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_subtraction.html#a5ef740131a6509545c3f547800ef8c7a"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="org.ioopm.calculator.ast.\lSubtraction.numericValue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_subtraction.html#a10ea7650e058178efecbf4ca822d1251"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="org.ioopm.calculator.ast.\lExpression.numericValue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_expression.html#a079311e633b38cf50ce8fb41407e0b26",tooltip="Evaluates the numeric value of an expression. "];
+}

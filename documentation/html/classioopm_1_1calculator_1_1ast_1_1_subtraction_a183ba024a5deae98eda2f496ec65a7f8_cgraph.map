@@ -1,0 +1,9 @@
+<map id="ioopm.calculator.ast.Subtraction.eval" name="ioopm.calculator.ast.Subtraction.eval">
+<area shape="rect" id="node2" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a03ffd478697b49f79a2ed6eca2af1de2" title="Evaluates an expression, simplifying it as much as possible. " alt="" coords="307,5,504,44"/>
+<area shape="rect" id="node3" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a196c766895d24f83c875314c23383ca2" title="Returns true if called by an object of class Constant. " alt="" coords="307,68,504,107"/>
+<area shape="rect" id="node4" href="$classioopm_1_1calculator_1_1ast_1_1_subtraction.html#a6c02fa59963fd42b01a2cc2106d1223e" title="ioopm.calculator.ast.Subtraction.\lSubtraction" alt="" coords="299,131,513,169"/>
+<area shape="rect" id="node6" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#a5ca21b5ba52084582bdccc99efbdf763" title="Simplifies an expression as much as possible. " alt="" coords="307,193,504,232"/>
+<area shape="rect" id="node7" href="$classioopm_1_1calculator_1_1ast_1_1_binary.html#a98c44e51d0e6e15263592a93af6803ba" title="ioopm.calculator.ast.Binary.simplify" alt="" coords="292,256,520,281"/>
+<area shape="rect" id="node5" href="$classioopm_1_1calculator_1_1ast_1_1_binary.html#a3e2f6c817b189106b0654ef4a1fe47d9" title="Assigns the left and right sub expressions of the binary expression. " alt="" coords="568,131,790,169"/>
+<area shape="rect" id="node8" href="$classioopm_1_1calculator_1_1ast_1_1_symbolic_expression.html#aae03f89bf31fc9c94de8689795c0122c" title="Gets the numeric value of an expression. " alt="" coords="580,249,777,288"/>
+</map>

@@ -1,0 +1,15 @@
+y = x
+60 = y
+x + 50 = x
+5*y + sin(x)
+cos(d) = z
+10 = d
+100 * z
+y + z = y
+5*5
+sin(5)
+exp(2)
+pi * Answer
+5 - 4*3
+100/10*10-(5*sin(3))
+quit

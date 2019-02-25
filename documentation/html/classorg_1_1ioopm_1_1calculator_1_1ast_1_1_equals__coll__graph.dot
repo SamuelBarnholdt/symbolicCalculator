@@ -1,0 +1,13 @@
+digraph "org.ioopm.calculator.ast.Assignment"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="org.ioopm.calculator.ast.\lEquals",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="org.ioopm.calculator.ast.\lBinary",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_binary.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="org.ioopm.calculator.ast.\lExpression",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_expression.html"];
+  Node7 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="org.ioopm.calculator.ast.\lSimplify",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interfaceorg_1_1ioopm_1_1calculator_1_1ast_1_1_simplify.html"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" lhs\nrhs" ,fontname="Helvetica"];
+}

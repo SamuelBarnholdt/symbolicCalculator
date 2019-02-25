@@ -1,0 +1,21 @@
+digraph "org.ioopm.calculator.ast.Binary.assignExpression"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="org.ioopm.calculator.ast.\lBinary.assignExpression",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="org.ioopm.calculator.ast.\lAddition.Addition",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_addition.html#a481c5a554aea890976cd74ace31e674f"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="org.ioopm.calculator.ast.\lAddition.eval",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_addition.html#a8650f05d33838d93040a8bfba2d50983"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="org.ioopm.calculator.ast.\lEquals.Equals",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_equals.html#aab957e35137af01c37ee5a324c84b20b"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="org.ioopm.calculator.ast.\lMultiplication.Multiplication",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_multiplication.html#a52c6623660a593c1b2b30468ca3b3378"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="org.ioopm.calculator.ast.\lMultiplication.eval",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_multiplication.html#af5823230fd22a3ab6a8c6b6e96b859ea"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="org.ioopm.calculator.ast.\lSubtraction.Subtraction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_subtraction.html#a70c1a71bd4836c5b339f425b200aa5ef"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="org.ioopm.calculator.ast.\lSubtraction.eval",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classorg_1_1ioopm_1_1calculator_1_1ast_1_1_subtraction.html#a5f71f831d802df6cf51d799193dc7533"];
+}
